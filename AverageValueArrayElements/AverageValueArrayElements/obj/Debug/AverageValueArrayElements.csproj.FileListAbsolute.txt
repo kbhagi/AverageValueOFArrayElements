@@ -1,0 +1,5 @@
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\AverageValueArrayElements\AverageValueArrayElements\bin\Debug\AverageValueArrayElements.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\AverageValueArrayElements\AverageValueArrayElements\bin\Debug\AverageValueArrayElements.pdb
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\AverageValueArrayElements\AverageValueArrayElements\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\AverageValueArrayElements\AverageValueArrayElements\obj\Debug\AverageValueArrayElements.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\AverageValueArrayElements\AverageValueArrayElements\obj\Debug\AverageValueArrayElements.pdb
